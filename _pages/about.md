@@ -13,7 +13,7 @@ redirect_from:
 我的课题组目前有研究岗位若干，如果您感兴趣，请将您的简历、成绩单、获奖证书、代表作发至我的邮箱。
 十分欢迎优秀的本科生（主要面向本校同学）来我的课题组参加科研训练！
 
-[Email:guanggyu.li2017@njust.edu.cn](mailto:guanggyu.li2017@njust.edu.cn)/[Google Scholar (谷歌学术)](https://scholar.google.com.hk/citations?user=qovg0wcAAAAJ&hl=zh-CN)
+[Email:guanggyu.li2017@njust.edu.cn](mailto:guanggyu.li2017@njust.edu.cn)  /  [Google Scholar (谷歌学术)](https://scholar.google.com.hk/citations?user=qovg0wcAAAAJ&hl=zh-CN)
 
 招生意向
 -----
