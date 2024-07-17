@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "李广宇 / 个人主页"
 title_separator          : "-"
 name                     : &name "李广宇"
-#description              : &description "personal description"
+description              : #&description "personal description"
 url                      : https://guangyuli-jia.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "guangyuli-jia/guangyuli-jia.github.io"
@@ -22,13 +22,13 @@ repository               : "guangyuli-jia/guangyuli-jia.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "李广宇"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : #"Short biography for the left-hand sidebar"
+  location         : "江苏省南京市"
+  employer         : "南京理工大学"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "guangyu.li2017@njust.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
